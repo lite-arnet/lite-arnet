@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnet Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="coding-image" />
+<img align="right"  width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="coding-image" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lite-arnet&label=Profile%20views&color=0e75b6&style=flat" alt="lite-arnet" /> </p>
 
