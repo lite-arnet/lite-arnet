@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Angular, Firestore,React, Javascript**
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact **I'm not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
